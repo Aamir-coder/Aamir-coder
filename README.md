@@ -1,4 +1,4 @@
-![LOGO
+![logo](https://github.com/Aamir-coder/Aamir-coder/blob/main/OIP.jpg)
 <h1 align="center">Hi 👋, I'm Aamir</h1>
 <h3 align="center">i am a Student Of Data Science</h3>
 
