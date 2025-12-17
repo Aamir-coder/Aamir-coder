@@ -1,4 +1,4 @@
-![logo]("C:\Users\Aamir choudhary\OneDrive\Pictures\e002c330cb63f4da1323f1a7d986cc46.jpg")
+![logo]("e002c330cb63f4da1323f1a7d986cc46.jpg")
 <h1 align="center">Hi 👋, I'm Aamir</h1>
 <h3 align="center">I am a Student Of Data Science</h3>
 
