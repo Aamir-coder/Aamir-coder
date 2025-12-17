@@ -1,4 +1,4 @@
-![logo]("e002c330cb63f4da1323f1a7d986cc46.jpg")
+![logo](https://github.com/Aamir-coder/Aamir-coder/blob/main/OIP%20Data%20Science.jpg)
 <h1 align="center">Hi 👋, I'm Aamir</h1>
 <h3 align="center">I am a Student Of Data Science</h3>
 
