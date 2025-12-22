@@ -1,6 +1,8 @@
-![logo](https://github.com/Aamir-coder/Aamir-coder/blob/main/OIP%20Data%20Science.jpg)
+
 <p align="center">
-  <img src="https://github.com/Nihal-Kushwaha/Nihal-Kushwaha/blob/main/Nihal%20ab.gif" />
+  <img src="https://github.com/user-attachments/assets/8d10b97c-9b6a-40d3-abf3-bd9fc777f341" width="100%" alt="GitHub Cover Image">
+</p>
+
 
 
 
@@ -22,13 +24,11 @@
 - 🔍 Passionate about converting raw data into meaningful insights.
 - 📚 Continuously learning new technologies and improving problem-solving skills.
 - 🤝 Open to internships, projects, and collaborative opportunities
-- 📫 How to reach me **nihal.kr0227@gmail.com**
+- 📫 How to reach me **choudharyaamir189@gmail.com**
 
 ## 🌐 Connect me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nihal-kushwaha-2b48a3312/)
-[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Nihalku02520085)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@nihalkushwaha9533)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aamir-53635738b/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:choudharyaamir189@gmail.com)
 
 
