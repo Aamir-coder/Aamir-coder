@@ -1,23 +1,17 @@
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8d10b97c-9b6a-40d3-abf3-bd9fc777f341" width="100%" alt="GitHub Cover Image">
+  <img src="https://github.com/user-attachments/assets/8d10b97c-9b6a-40d3-abf3-bd9fc777f341" width="80%" alt="GitHub Cover Image">
 </p>
-
-
-
-
-
 <img
   align="right"
   alt="coding"
   width="375"
   src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif"
 />
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nihal-kushwaha&label=Profile%20views&color=0e75b6&style=flat" alt="nihal-kushwaha" /> </p>
 
 # 💫 About Me:
+    Hello I am Aamir
 - 🌱 I’m currently learning **Data Science**.
 - 💻 Learning and applying Python, Statistics, and Data Science fundamentals.
 - 🛠️ Worked with tools like **Pandas**, **NumPy**, **Matplotlib**, and **Seaborn**.
