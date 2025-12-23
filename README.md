@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8d10b97c-9b6a-40d3-abf3-bd9fc777f341" width="80%" alt="GitHub Cover Image">
+  <img src="https://github.com/user-attachments/assets/8d10b97c-9b6a-40d3-abf3-bd9fc777f341"height="300" width="1000" alt="GitHub Cover Image">
 </p>
 <img
   align="right"
